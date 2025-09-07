@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --fontFamily:{
+            "Epunda":["Epunda+Slab:ital,wght@0,300..900;1,300..900",'sans-serif']
+        }
+    
+}
